@@ -1,0 +1,17 @@
+[
+    { "id": 1 ,
+     "nombre":"Juan",
+     "email": "juanls@gmail.com",
+     "contra":"pepe1123"
+    },
+    { "id": 2 ,
+    "nombre":"Juan",
+    "email": "juanls@gmail.com",
+    "contra": "pepito1323"
+   },
+   { "id": 1 ,
+   "nombre":"Juan",
+   "email": "juanls@gmail.com",
+   "contra": "12344421"  
+   }
+]
