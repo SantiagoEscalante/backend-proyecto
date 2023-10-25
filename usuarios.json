@@ -1,17 +1,1 @@
-[
-    { "id": 1 ,
-     "nombre":"Juan",
-     "email": "juanls@gmail.com",
-     "contra":"pepe1123"
-    },
-    { "id": 2 ,
-    "nombre":"Juan",
-    "email": "juanls@gmail.com",
-    "contra": "pepito1323"
-   },
-   { "id": 1 ,
-   "nombre":"Juan",
-   "email": "juanls@gmail.com",
-   "contra": "12344421"  
-   }
-]
+[{"id":1,"nombre":"Juan","apellido":"Gonzalez","edad":"22","email":"juanls@gmail.com","contra":"pepe1123"},{"id":2,"nombre":"Juan","apellido":"Fernandez","edad":"28","email":"juanlsz@gmail.com","contra":"pepito1323"},{"id":3,"nombre":"Juan","apellido":"santiago","edad":"22","email":"juanls@gmail.com","contra":"12344421"},{"id":4,"nombre":"Santiago","apellido":"Escalante","edad":"24","email":"santiesca99@gmail.com","contra":"1234567"},{"id":5,"nombre":"santiago","apellido":"santiago","edad":"22","email":"santi@gmail.com","contra":"123"},{"id":6,"nombre":"santiago","apellido":"cazorla","edad":"34","email":"santicazorla@gmail.com","contra":"santicazorla"},{"id":7,"nombre":"nano","apellido":"alonso","edad":"33","email":"nanoalonso33@gmail.com","contra":"nanoalonso33"}]
